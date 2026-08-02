@@ -4,7 +4,7 @@
 
 </p>
 
-<h1>On-premises Active Directory Deployed in the Cloud (Azure)</h1>
+<h1> Identity and Access Management using Microsoft Azure EntraID (Azure)</h1>
 
 
 <h2>Environments and Technologies Used</h2>
