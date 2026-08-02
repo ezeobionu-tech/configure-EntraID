@@ -1,6 +1,7 @@
 # configure-EntraID
 <p align="center">
-<img />
+<img width="1004" height="591" alt="image" src="https://github.com/user-attachments/assets/457852ee-d0ac-4924-b59f-259d3416aedf" />
+
 </p>
 
 <h1>On-premises Active Directory Deployed in the Cloud (Azure)</h1>
