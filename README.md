@@ -1,6 +1,6 @@
 # configure-EntraID
 <p align="center">
-<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/457852ee-d0ac-4924-b59f-259d3416aedf" />
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/457852ee-d0ac-4924-b59f-259d3416aedf" />
 
 </p>
 
