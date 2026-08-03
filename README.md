@@ -87,7 +87,7 @@ User authentication....
 - Group Creation
   1. From the Azure portal click on EntraID
   2. Click on Groups then New Group
-  3. Select Group type (Security of Microsoft 365)
+  3. Select Group type (Security or Microsoft 365)
   4. Enter Group Name and Group Description 
   5. Under Members click on No member selected
   6. Click on Users and select desired users to the group
