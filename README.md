@@ -80,20 +80,31 @@ User authentication....
 <h2> Stepwise Demonstration </h2>
 
 - User Creation
-  1. From the Azure portal click on EntraID
+  1. From the Azure portal click on Microsoft EntraID
   2. Click on users, then New users followed by create new users
   3. Enter basic identity and Properties information
   4. Click on review + create, then create
 - Group Creation
-  1. From the Azure portal click on EntraID
+  1. From the Azure portal click on Microsoft EntraID
   2. Click on Groups then New Group
   3. Select Group type (Security or Microsoft 365)
   4. Enter Group Name and Group Description 
   5. Under Members click on No member selected
   6. Click on Users and select desired users to the group
 - Adding Services and Application
-- Adding Services and Application
+  1. From the Azure portal click on Microsoft EntraID
+  2. Click on Manage
+  3. Click on Enterprise Applications, followed by New Application
+  4. Search for Zoom or ServiceNow in the Search by application box
+  5. Click on the application and create
+- Adding Services and Application to Users
+  1. From the Azure portal click on Microsoft EntraID
+  2. Click on Enterprise Application
+  3. Click on any available applications
+  4. Click on assign users and groups and select desired users or group
 - Authentication Method Set up
-- 
+- 1. From the Azure portal click on Microsoft EntraID
+  2. Click on users and select a user
+  3. Click on authentication methods and choose a method
 </p>
 <br />
