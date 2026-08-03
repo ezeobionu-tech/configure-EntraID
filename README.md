@@ -85,7 +85,7 @@ User authentication....
   3. Enter basic identity and Properties information
   4. Click on review + create, then create
 - Group Creation
-  1. 
+  1. LLLLLLLLLLLLLLLLLL
 - Adding Services and Application
 - Adding Services and Application
 - Authentication Method Set up
