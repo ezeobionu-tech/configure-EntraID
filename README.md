@@ -9,15 +9,19 @@
 
 <h2> Project Summary</h2>
 
-- Microsoft Azure (Virtual Machines/Compute)
-- Remote Desktop
-- Active Directory Domain Services
-- PowerShell
+- Create Enterprise users and assign users to Security Group
+- Instructional demonstration on how to add Services and Applications to Enterprise account
+- Instructional demonstration on how to add cloud services and application to users
+- Set up authentication methods for a user
 
 <h2> Environments and Technologies Used </h2>
 
-- Windows Server 2022
-- Windows 10 (21H2)
+- Microsoft Azure portal
+- EntraID
+- Zoom
+- ServiceNow
+- Identity and Access Management
+- Authentication and Authorization
 
 <h2>Configuration Steps</h2>
 
