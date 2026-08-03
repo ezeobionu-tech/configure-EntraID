@@ -36,7 +36,7 @@ User creation....
 <br />
 
 <p>
-  <img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/fca61184-e981-45e8-b615-473641adfc3d" />
+  <img width="975" height="609" alt="image" src="https://github.com/user-attachments/assets/fca61184-e981-45e8-b615-473641adfc3d" />
 
 </p>
 <p>
