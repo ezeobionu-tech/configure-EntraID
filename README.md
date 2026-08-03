@@ -51,6 +51,16 @@ Group creation.....
 <p>
 Enterprise Application.....
 </p>
+<br />
+
+<p>
+<img width="975" height="609" alt="image" src="https://github.com/user-attachments/assets/b110f72b-476d-49a6-b466-2683490699b0" />
+
+</p>
+<p>
+Assign users to application
+</p>
+
 
 
 
