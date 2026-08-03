@@ -26,6 +26,8 @@
 <h2>Configuration Steps</h2>
 
 <p>
+<img width="975" height="609" alt="image" src="https://github.com/user-attachments/assets/179ac4ea-51a4-4643-ab0e-820fa8879c4f" />
+
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
