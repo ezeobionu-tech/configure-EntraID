@@ -31,7 +31,7 @@
 
 </p>
 <p>
-User creation....
+A user was created in the Azure portal with basic identity information on display
 </p>
 <br />
 
@@ -40,7 +40,7 @@ User creation....
 
 </p>
 <p>
-Group creation.....
+A group was created in the Azure portal by selecting created users
 </p>
 <br />
 
@@ -49,7 +49,7 @@ Group creation.....
 
 </p>
 <p>
-Enterprise Application.....
+ServiceNow was added to Enterprise Application using Microsoft Entra App Gallery
 </p>
 <br />
 
