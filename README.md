@@ -103,7 +103,7 @@ User authentication....
   3. Click on any available applications
   4. Click on assign users and groups and select desired users or group
 - Authentication Method Set up
-- 1. From the Azure portal click on Microsoft EntraID
+  1. From the Azure portal click on Microsoft EntraID
   2. Click on users and select a user
   3. Click on authentication methods and choose a method
 </p>
