@@ -4,7 +4,7 @@
 
 </p>
 
-<h1> Identity and Access Management using Microsoft Azure EntraID (Azure)</h1>
+<h1> Identity and Access Management using Microsoft Azure EntraID </h1>
 
 
 <h2> Project Summary</h2>
