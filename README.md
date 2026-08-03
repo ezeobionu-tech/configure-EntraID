@@ -58,7 +58,7 @@ ServiceNow was added to Enterprise Application using Microsoft Entra App Gallery
 
 </p>
 <p>
-Assign users to application
+Zoom was assigned to available users.
 </p>
 <br />
 
@@ -67,7 +67,7 @@ Assign users to application
 
 </p>
 <p>
-User authentication....
+Authentication method was added to a selected user
 </p>
 <br />
 
