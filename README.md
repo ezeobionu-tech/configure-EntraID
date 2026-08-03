@@ -60,6 +60,18 @@ Enterprise Application.....
 <p>
 Assign users to application
 </p>
+<br />
+
+<p>
+<img width="975" height="609" alt="image" src="https://github.com/user-attachments/assets/70813a69-7827-4528-8203-731a18b22d60" />
+
+</p>
+<p>
+User authentication....
+</p>
+<br />
+
+
 
 
 
