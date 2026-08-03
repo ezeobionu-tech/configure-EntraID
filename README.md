@@ -81,8 +81,11 @@ User authentication....
 
 - User Creation
   1. From the Azure portal click on EntraID
-  2. ..........
-- Group craetion
+  2. Click on users, then New users followed by create new users
+  3. Enter basic identity and Properties information
+  4. Click on review + create, then create
+- Group Creation
+  1. 
 - Adding Services and Application
 - Adding Services and Application
 - Authentication Method Set up
