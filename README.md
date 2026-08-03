@@ -78,5 +78,14 @@ User authentication....
 
 
 <h2> Stepwise Demonstration </h2>
+
+- User Creation
+  1}From the Azure portal click on EntraID
+  2)..........
+- Group craetion
+- Adding Services and Application
+- Adding Services and Application
+- Authentication Method Set up
+- 
 </p>
 <br />
